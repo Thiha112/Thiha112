@@ -3,7 +3,7 @@
 #### Connect with me 
 
 <a href="https://www.facebook.com/ego.sum.diaboli">
-  <img align="left" alt="Thi Ha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="ThiHa" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/thiha112">
   <img align="left" alt="Thi Ha" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
